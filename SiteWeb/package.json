@@ -1,0 +1,20 @@
+{
+  "name": "siteweb",
+  "version": "1.0.0",
+  "description": "Site web de rencontre pour un projet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bajamin Potvin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mysql": "^2.11.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "socket.io": "^1.7.4"
+  },
+  "devDependencies": {}
+}
